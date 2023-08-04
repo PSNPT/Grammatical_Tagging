@@ -1,0 +1,4 @@
+does : VDZ
+doth : VDZ
+'s : VDZ
+dun : VDZ

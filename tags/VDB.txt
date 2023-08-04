@@ -1,0 +1,6 @@
+derring-do : VDB
+making-do : VDB
+du : VDB
+do : VDB
+d' : VDB
+dost : VDB

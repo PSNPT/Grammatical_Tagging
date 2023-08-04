@@ -1,0 +1,3 @@
+stuff-there : EX0
+equipment-there : EX0
+there : EX0

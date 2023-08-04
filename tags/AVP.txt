@@ -1,0 +1,15 @@
+in : AVP
+under : AVP
+out : AVP
+on : AVP
+back : AVP
+along : AVP
+by : AVP
+about : AVP
+through : AVP
+down : AVP
+around : AVP
+off : AVP
+up : AVP
+over : AVP
+round : AVP

@@ -1,0 +1,12 @@
+considering : PRP-CJS
+except : PRP-CJS
+afore : PRP-CJS
+as : PRP-CJS
+since : PRP-CJS
+before : PRP-CJS
+after : PRP-CJS
+ere : PRP-CJS
+notwithstanding : PRP-CJS
+till : PRP-CJS
+like : PRP-CJS
+until : PRP-CJS

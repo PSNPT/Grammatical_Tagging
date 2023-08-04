@@ -1,0 +1,4 @@
+has : VHZ
+hath : VHZ
+'s : VHZ
+'as : VHZ

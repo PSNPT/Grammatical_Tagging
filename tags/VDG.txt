@@ -1,0 +1,3 @@
+doing : VDG
+doin' : VDG
+re-doing : VDG

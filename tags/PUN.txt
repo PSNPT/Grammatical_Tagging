@@ -1,0 +1,25 @@
+… : PUN
+- : PUN
+– : PUN
+.............. : PUN
+.... : PUN
+. &; : PUN
+— : PUN
+! : PUN
+..... : PUN
+...... : PUN
+........... : PUN
+... : PUN
+/ : PUN
+....... : PUN
+; : PUN
+* : PUN
+? : PUN
+• : PUN
+.. : PUN
+roebuck-— : PUN
+........ : PUN
+, : PUN
+. : PUN
+.......... : PUN
+: : PUN

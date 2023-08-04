@@ -1,0 +1,5 @@
+ta : TO0
+to : TO0
+tae : TO0
+na : TO0
+t : TO0

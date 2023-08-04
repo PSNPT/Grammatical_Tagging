@@ -1,0 +1,6 @@
+wert : VBD
+wuz : VBD
+was : VBD
+were : VBD
+wa-ha-was : VBD
+it-was : VBD

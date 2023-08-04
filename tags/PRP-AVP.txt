@@ -1,0 +1,16 @@
+up/down : PRP-AVP
+in : PRP-AVP
+under : PRP-AVP
+out : PRP-AVP
+on : PRP-AVP
+through : PRP-AVP
+along : PRP-AVP
+about : PRP-AVP
+by : PRP-AVP
+mid-on : PRP-AVP
+down : PRP-AVP
+around : PRP-AVP
+off : PRP-AVP
+up : PRP-AVP
+over : PRP-AVP
+round : PRP-AVP

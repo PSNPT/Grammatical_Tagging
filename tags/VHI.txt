@@ -1,0 +1,6 @@
+hev : VHI
+of : VHI
+'ve : VHI
+have : VHI
+'ave : VHI
+'a : VHI

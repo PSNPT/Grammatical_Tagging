@@ -1,0 +1,8 @@
+what : DTQ
+wha : DTQ
+which : DTQ
+whichever : DTQ
+whose : DTQ
+whatsoever : DTQ
+whatever : DTQ
+wot : DTQ

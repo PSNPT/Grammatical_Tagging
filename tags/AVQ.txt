@@ -1,0 +1,13 @@
+how : AVQ
+whereby : AVQ
+where : AVQ
+wherein : AVQ
+whence : AVQ
+wherever : AVQ
+whenever : AVQ
+however : AVQ
+whereabouts : AVQ
+-how : AVQ
+whither : AVQ
+why : AVQ
+when : AVQ

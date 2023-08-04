@@ -1,0 +1,7 @@
+in : VBZ
+s : VBZ
+now-it-is : VBZ
+'s : VBZ
+i-s : VBZ
+is : VBZ
+staple-is : VBZ

@@ -1,0 +1,7 @@
+anti-hev : VHB
+hev : VHB
+-have : VHB
+'ve : VHB
+have : VHB
+'ave : VHB
+hast : VHB

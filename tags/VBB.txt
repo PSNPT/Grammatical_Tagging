@@ -1,0 +1,6 @@
+'m : VBB
+am : VBB
+are : VBB
+be : VBB
+'re : VBB
+art : VBB

@@ -1,0 +1,3 @@
+done : VDN
+well-done : VDN
+re-done : VDN
